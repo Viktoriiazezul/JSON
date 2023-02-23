@@ -28,10 +28,10 @@ ctrl+C
 ## 
 ```   
 cat >preferences.json
-"serial":"home on happy"
+{"serial":"home on happy"
 "eat":"borsch"
 "season":"summer"
-"cauntry":"USA"
+"cauntry":"USA"}
 ```
 ctrl+C
 
@@ -39,11 +39,11 @@ ctrl+C
   ## 
 ```  
 cat >skills.json
-"git"
+{"git"
 "mobile testing"
 "SQL"
 "python"
-"web testing"
+"web testing"}
 ```
 ctrl+C
 
