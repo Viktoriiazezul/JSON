@@ -13,10 +13,11 @@
 ## 
 ```
 cat >>new.json
-Zezul Viktoriia Ivanivna
-28 years
-not animals home
-1000 usd 
+{"my name":"Zezul Viktoriia Ivanivna"
+"28 years"
+"not animals home"
+"1000 usd"
+}
 ```
 ctrl+C
 
@@ -27,11 +28,10 @@ ctrl+C
 ## 
 ```   
 cat >preferences.json
-film: Soul
-serial: home on happy
-eat: borsch
-season: summer
-cauntry: USA
+"serial":"home on happy"
+"eat":"borsch"
+"season":"summer"
+"cauntry":"USA"
 ```
 ctrl+C
 
@@ -39,11 +39,11 @@ ctrl+C
   ## 
 ```  
 cat >skills.json
-git
-mobile testing
-SQL
-python
-and ect
+"git"
+"mobile testing"
+"SQL"
+"python"
+"web testing"
 ```
 ctrl+C
 
